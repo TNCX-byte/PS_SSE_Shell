@@ -60,4 +60,4 @@ Do not use this on networks or systems you do not own or have explicit permissio
 ## License
 
 MIT License  
-Author: CNT
+Author: TNCX-byte
