@@ -36,6 +36,10 @@ Start-SseServer -Port 8080
 ```
 Start-SseServer -Port 8080 -Headless
 ```
+#### On a 3rd Endpoint:
+```
+(iwr http://<SSE_Server_IP_Address>:8080/command -Method POST -Body "whoami" -ContentType "text/plain" -UseBasicParsing).Content
+```
 
 ### Client:
 ```
