@@ -29,7 +29,7 @@ You can cleanly shut down the server by running:
 
 ```powershell
 iwr http://localhost:11170/shutdown
-
+```
 ## Disclaimer
 
 This project is provided for **educational and research purposes only**.  
