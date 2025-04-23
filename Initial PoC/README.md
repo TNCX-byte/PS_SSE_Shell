@@ -29,3 +29,12 @@ You can cleanly shut down the server by running:
 
 ```powershell
 iwr http://localhost:11170/shutdown
+
+## Disclaimer
+
+This project is provided for **educational and research purposes only**.  
+Any use of this code for unauthorized access, control, or tampering with systems you do not own or have explicit permission to test is strictly prohibited.
+
+The author assumes **no responsibility** for any misuse or damages caused by this project.  
+Use it **at your own risk**, and always stay within the bounds of ethical security practices.
+
