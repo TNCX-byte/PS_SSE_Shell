@@ -31,7 +31,7 @@ You can cleanly shut down the server by running:
 iwr http://localhost:11170/shutdown
 
 ## Disclaimer
-```
+
 This project is provided for **educational and research purposes only**.  
 Any use of this code for unauthorized access, control, or tampering with systems you do not own or have explicit permission to test is strictly prohibited.
 
